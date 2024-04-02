@@ -64,11 +64,14 @@ Confusion matrix.
 | Accuracy      | 0.70 |
 | Precision     | 0.71      | 
 | Recall        | 0.88      |
-| ROC curve        | 0.73      |
+| F1-Score        | 0.79      |
+| Area under ROC curve        | 0.73      |
 
 ROC AUC
-> AUC - ROC curve is a performance measurement for the classification problems at various threshold settings. ROC is a probability curve and AUC represents the degree or measure of separability. It tells how much the model is capable of distinguishing between classes. <sup>[1](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)</sup>
 
 ![image](https://github.com/ysasamson/PovertyPredictorModel/assets/145044637/f158c011-4a1f-4916-a254-7b2e0fa10e3c)
 
 ![image](https://github.com/ysasamson/PovertyPredictorModel/assets/145044637/48636b5f-2f23-4eaa-92f3-ebe0c989f4dc)
+
+## Conclusion
+Based on the metric evaluation, the model achieves an accuracy of 0.70, which means it correctly predicts the outcome for approximately 70% of the instances in the dataset. A precision score of 0.71 indicates that when the model predicts a positive outcome, it is correct about 71% of the time. A recall of 0.88 indicates that the model correctly identifies 88% of all actual positive instances in the dataset. The F1-score, which is the harmonic mean of precision and recall is 0.79, this means there is a reasonable balance between precision and recall. An AUC (area under the ROC curve) of 0.73 indicates that the model is moderately effective at distinguishing between the two classes. Overall, the logistic regression model seems to predict poverty incidence reasonably well, with relatively high recall (88%) suggesting it is good at capturing positive instances, and a balanced F1-score (0.79) indicating a trade-off between precision and recall. 
