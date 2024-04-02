@@ -65,3 +65,9 @@ Confusion matrix.
 | Precision     | 0.71      | 
 | Recall        | 0.88      |
 | ROC curve        | 0.73      |
+
+ROC AUC
+
+![image](https://github.com/ysasamson/PovertyPredictorModel/assets/145044637/f158c011-4a1f-4916-a254-7b2e0fa10e3c)
+
+![image](https://github.com/ysasamson/PovertyPredictorModel/assets/145044637/48636b5f-2f23-4eaa-92f3-ebe0c989f4dc)
