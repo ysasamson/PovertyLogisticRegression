@@ -1,4 +1,4 @@
-# Poverty Logistic Regression Model
+# Poverty Predictor Logistic Regression Model
 ## Objective
 In this project, a logistic regression model was made with the following steps:
 1. Data Preparation
