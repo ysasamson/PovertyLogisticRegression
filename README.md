@@ -67,6 +67,7 @@ Confusion matrix.
 | ROC curve        | 0.73      |
 
 ROC AUC
+> AUC - ROC curve is a performance measurement for the classification problems at various threshold settings. ROC is a probability curve and AUC represents the degree or measure of separability. It tells how much the model is capable of distinguishing between classes. <sup>[1](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)</sup>
 
 ![image](https://github.com/ysasamson/PovertyPredictorModel/assets/145044637/f158c011-4a1f-4916-a254-7b2e0fa10e3c)
 
