@@ -59,4 +59,9 @@ Confusion matrix.
 
 ![image](https://github.com/ysasamson/PovertyPredictorModel/assets/145044637/872505bd-d919-4fdc-906e-e449f01a8910)
 
-
+| Metric        | Score           |
+| :-----------: |:-------------:|
+| Accuracy      | 0.70 |
+| Precision     | 0.71      | 
+| Recall        | 0.88      |
+| ROC curve        | 0.73      |
