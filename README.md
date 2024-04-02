@@ -46,5 +46,17 @@ Features were analyzed using correlation heatmap
 
 ![image](https://github.com/ysasamson/PovertyPredictorModel/assets/145044637/aea0a36e-26cb-4935-bbca-321eb31573d2)
 
+Logistic Regression model built using features whose absolute value of the correlation efficient was higher than 0.2. The dataset was split into a train and test datasets.
+
+![image](https://github.com/ysasamson/PovertyPredictorModel/assets/145044637/58fc70ee-60ed-490d-a216-d1a7bc8e963c)
+
+
 ## Step 3. Model Evaluation
+
+Confusion matrix.
+
+![image](https://github.com/ysasamson/PovertyPredictorModel/assets/145044637/08badcad-645c-4bf1-8d93-814471d3301a)
+
+![image](https://github.com/ysasamson/PovertyPredictorModel/assets/145044637/872505bd-d919-4fdc-906e-e449f01a8910)
+
 
